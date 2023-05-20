@@ -3,7 +3,7 @@ attrs==23.1.0
 beautifulsoup4==4.12.2
 certifi==2023.5.7
 charset-normalizer==3.1.0
-chromedriver-binary==101.0.4951.41.0
+chromedriver-binary==113.0.5672.63.0
 exceptiongroup==1.1.1
 h11==0.14.0
 idna==3.4
